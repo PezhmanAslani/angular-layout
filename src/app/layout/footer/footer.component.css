@@ -1,0 +1,15 @@
+/* navbar.component.css */
+
+
+/* footer.component.css */
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+/* content.component.css */
+.content {
+  min-height: calc(100vh - 128px); /* Adjust the value based on your actual header and footer height */
+  padding: 20px;
+}

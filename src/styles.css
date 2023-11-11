@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+@import "assets/Vazir/font.css";
+*{
+  font-family: Vazir;
+}
+html, body { height: 100%; }
+body { margin: 0;  }
+.mdc-button{
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: unset;
+}
